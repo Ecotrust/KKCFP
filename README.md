@@ -1,4 +1,4 @@
-# KKCFP &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+# KKCFP &middot; [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > Keex’ Kwaan Community Forest Partnership
 
 Facilitate effective and meaningful communication between all stakeholders and partners of the Keex’ Kwaan Community Forest Partnership (KKCFP)
@@ -55,4 +55,4 @@ TBD
 
 ## Licensing
 
-MIT
+BSD 3
